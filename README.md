@@ -1,0 +1,1 @@
+A landing page to practice my newly learned skills in HTML and CSS, especially the Flexbox properties.
